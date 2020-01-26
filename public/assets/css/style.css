@@ -1,0 +1,50 @@
+.navbar {
+    background-color: rgb(250, 220, 164);
+}
+.navbar-brand {
+    font-size: 300%;
+    color: rgb(255, 85, 6);
+    font-weight: bold;
+}
+.navbar-nav {
+    text-align: center;
+    display: inline-flexbox;
+
+}
+.scrape_new {
+    box-shadow: 1px 2px #888888;
+    position: relative;
+    left: 2%;
+}
+.FoofI {
+    background-image: url("../images/wraps1.jpeg");
+    background-size: cover;
+     background-attachment: fixed;
+     height: 200%;
+}
+.background-image {
+    background: url("../images/images-7.jpeg") no-repeat;
+    background-size: 100%;
+}
+.construct {
+    font-size: 400%;
+    text-align: center;
+}
+.construct2 {
+    font-size: 1500%;
+    position: relative;
+    left: 40%;
+}
+.construct2:hover {
+    font-size: 1700%;
+    transition: 0.5s;
+}
+.construct:hover {
+    font-size: 300%;
+    transition: 0.5s;
+}
+.construct3{
+    font-size: 200%;
+    text-align: center;
+    margin-bottom: 20%;
+}
